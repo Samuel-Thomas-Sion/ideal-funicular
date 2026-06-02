@@ -1,0 +1,6 @@
+{
+  "name": "The Codex Invitation",
+  "description": "Exclusive predictive command center invitation for The Codex chess club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
